@@ -16,7 +16,7 @@
 ### Клонування репозиторію
 
 ```bash
-git clone https://github.com/yourusername/currency_exchanger.git
+git clone https://github.com/RomanNaumenko/currency_exchanger.git
 cd currency_exchanger
 ```
 ### Віртуальне середовище
